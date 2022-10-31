@@ -1,6 +1,7 @@
 function helloWorld() {
-  console.log("Hello world!");
   // comment
+  // changes
+  // changes
 }
 
 module.exports = { helloWorld };
